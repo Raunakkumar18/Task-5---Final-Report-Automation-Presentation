@@ -51,9 +51,7 @@ It runs daily at **09:00 IST (03:30 UTC)** and can also be started manually.
 ## Deliverables
 - Final report PDF
 - PowerPoint presentation
-- Automation script
+- Automation_pipeline
 - Requirements file
-- README
 - Processed Excel workbook
-- GitHub Actions workflow
-- LinkedIn final-submission post
+
