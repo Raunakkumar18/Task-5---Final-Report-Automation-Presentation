@@ -1,4 +1,4 @@
-# Task-5---Final-Report-Automation-Presentation
+# Task-5 - Final-Report-Automation-Presentation
 
 ## Project
 **Sales Performance Analysis using Sample Superstore Data**
@@ -8,7 +8,7 @@ Prepared for **ApexPlanet Software Pvt. Ltd.**
 ## Dataset
 - Records after cleaning: 8,827
 - Date range: 03-01-2014 to 30-12-2017
-- Source file: `SampleSuperstore(5).csv`
+- Source file: `SampleSuperstore.csv`
 
 ## Final KPIs
 | KPI | Value |
@@ -31,7 +31,7 @@ Prepared for **ApexPlanet Software Pvt. Ltd.**
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python automation_pipeline.py
+python automation_pipeline.ipynb
 ```
 
 The script:
